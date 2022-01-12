@@ -1,0 +1,6 @@
+﻿  sample.cpp
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 4\SampleFreeGlut2019\sample.cpp(48,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 4\SampleFreeGlut2019\sample.cpp(399,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 4\SampleFreeGlut2019\sample.cpp(401,24): warning C4305: '=': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\joshb\Desktop\OSU\CS - 450\Project 4\SampleFreeGlut2019\.\Debug\Sample.exe
