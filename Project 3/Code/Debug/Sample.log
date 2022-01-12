@@ -1,0 +1,20 @@
+﻿  sample.cpp
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(313,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(314,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(315,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(334,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(335,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(336,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(337,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(339,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(340,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(341,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(342,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(1010,21): warning C4101: 'border': unreferenced local variable
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(1010,6): warning C4101: 'level': unreferenced local variable
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(1010,13): warning C4101: 'ncomps': unreferenced local variable
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(1164,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(1165,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\sample.cpp(1166,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+1018.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\joshb\Desktop\OSU\CS - 450\Project 3\SampleFreeGlut2019\.\Debug\Sample.exe
