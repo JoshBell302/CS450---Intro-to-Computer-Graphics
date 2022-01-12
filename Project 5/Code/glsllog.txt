@@ -1,0 +1,5 @@
+
+0(110) : error C1008: undefined variable "ambient"
+0(110) : error C1008: undefined variable "diffuse"
+0(110) : error C1008: undefined variable "specular"
+
