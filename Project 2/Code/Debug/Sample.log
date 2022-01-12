@@ -1,0 +1,17 @@
+﻿  sample.cpp
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(972,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1029,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1030,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1036,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1038,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1040,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1042,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1051,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1052,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1058,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1060,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1062,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(1064,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\sample.cpp(4796,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\joshb\Desktop\OSU\CS - 450\Project 2\SampleFreeGlut2019\.\Debug\Sample.exe
